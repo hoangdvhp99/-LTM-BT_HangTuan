@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29806.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GiaoTiepClientServer", "GiaoTiepClientServer.csproj", "{FFCA59A2-A7AD-4774-908F-7533136AA346}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Client", "..\Client\Client.csproj", "{94B35CCB-793B-4D53-920F-49F3A3FA70F4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FFCA59A2-A7AD-4774-908F-7533136AA346}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FFCA59A2-A7AD-4774-908F-7533136AA346}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FFCA59A2-A7AD-4774-908F-7533136AA346}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FFCA59A2-A7AD-4774-908F-7533136AA346}.Release|Any CPU.Build.0 = Release|Any CPU
+		{94B35CCB-793B-4D53-920F-49F3A3FA70F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94B35CCB-793B-4D53-920F-49F3A3FA70F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94B35CCB-793B-4D53-920F-49F3A3FA70F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94B35CCB-793B-4D53-920F-49F3A3FA70F4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {42C6E298-F9C5-4191-91AF-668C06DA841B}
+	EndGlobalSection
+EndGlobal

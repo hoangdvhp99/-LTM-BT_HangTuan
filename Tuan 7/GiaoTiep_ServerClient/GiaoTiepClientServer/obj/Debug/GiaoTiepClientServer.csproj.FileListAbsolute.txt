@@ -1,0 +1,22 @@
+C:\Users\Admin\source\repos\GiaoTiepClientServer\bin\Debug\GiaoTiepClientServer.exe.config
+C:\Users\Admin\source\repos\GiaoTiepClientServer\bin\Debug\GiaoTiepClientServer.exe
+C:\Users\Admin\source\repos\GiaoTiepClientServer\bin\Debug\GiaoTiepClientServer.pdb
+C:\Users\Admin\source\repos\GiaoTiepClientServer\bin\Debug\SimpleTCP.dll
+C:\Users\Admin\source\repos\GiaoTiepClientServer\obj\Debug\GiaoTiepClientServer.Form1.resources
+C:\Users\Admin\source\repos\GiaoTiepClientServer\obj\Debug\GiaoTiepClientServer.Properties.Resources.resources
+C:\Users\Admin\source\repos\GiaoTiepClientServer\obj\Debug\GiaoTiepClientServer.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\GiaoTiepClientServer\obj\Debug\GiaoTiepClientServer.csproj.CopyComplete
+C:\Users\Admin\source\repos\GiaoTiepClientServer\obj\Debug\GiaoTiepClientServer.exe
+C:\Users\Admin\source\repos\GiaoTiepClientServer\obj\Debug\GiaoTiepClientServer.pdb
+C:\Users\Admin\source\repos\GiaoTiepClientServer\obj\Debug\GiaoTiepClientServer.csprojAssemblyReference.cache
+E:\SINHVIEN\LAP TRINH MANG\GiaoTiep_ServerClient\GiaoTiepClientServer\bin\Debug\GiaoTiepClientServer.exe.config
+E:\SINHVIEN\LAP TRINH MANG\GiaoTiep_ServerClient\GiaoTiepClientServer\bin\Debug\GiaoTiepClientServer.exe
+E:\SINHVIEN\LAP TRINH MANG\GiaoTiep_ServerClient\GiaoTiepClientServer\bin\Debug\GiaoTiepClientServer.pdb
+E:\SINHVIEN\LAP TRINH MANG\GiaoTiep_ServerClient\GiaoTiepClientServer\bin\Debug\SimpleTCP.dll
+E:\SINHVIEN\LAP TRINH MANG\GiaoTiep_ServerClient\GiaoTiepClientServer\obj\Debug\GiaoTiepClientServer.csprojAssemblyReference.cache
+E:\SINHVIEN\LAP TRINH MANG\GiaoTiep_ServerClient\GiaoTiepClientServer\obj\Debug\GiaoTiepClientServer.Form1.resources
+E:\SINHVIEN\LAP TRINH MANG\GiaoTiep_ServerClient\GiaoTiepClientServer\obj\Debug\GiaoTiepClientServer.Properties.Resources.resources
+E:\SINHVIEN\LAP TRINH MANG\GiaoTiep_ServerClient\GiaoTiepClientServer\obj\Debug\GiaoTiepClientServer.csproj.GenerateResource.cache
+E:\SINHVIEN\LAP TRINH MANG\GiaoTiep_ServerClient\GiaoTiepClientServer\obj\Debug\GiaoTiepClientServer.csproj.CopyComplete
+E:\SINHVIEN\LAP TRINH MANG\GiaoTiep_ServerClient\GiaoTiepClientServer\obj\Debug\GiaoTiepClientServer.exe
+E:\SINHVIEN\LAP TRINH MANG\GiaoTiep_ServerClient\GiaoTiepClientServer\obj\Debug\GiaoTiepClientServer.pdb
