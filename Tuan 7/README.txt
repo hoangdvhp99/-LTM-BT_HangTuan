@@ -10,8 +10,3 @@ Nếu client gửi chuỗi ký tự "END" thì trả về "Good bye!" và đóng
 _Folder gồm 2 project:
 1. Server 
 2. Client
-__________________________
-
-
-
-
