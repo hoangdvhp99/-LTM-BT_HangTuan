@@ -1,3 +1,5 @@
+Đặng Việt Hoàng - MSV: 73341 
+_______________
 *Đề bài:
 Viết một cặp client/server thưc hiện được yêu cầu sau:
 Khi client vừa kết nối thì gửi chuỗi ký tự "Hello, IP:port của client".
@@ -8,5 +10,8 @@ Nếu client gửi chuỗi ký tự "END" thì trả về "Good bye!" và đóng
 _Folder gồm 2 project:
 1. Server 
 2. Client
+__________________________
+
+
 
 
