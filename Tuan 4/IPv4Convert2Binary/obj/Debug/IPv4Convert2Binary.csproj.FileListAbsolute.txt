@@ -1,0 +1,9 @@
+E:\SINHVIEN\LAP TRINH MANG\IPv4Convert2Binary\bin\Debug\IPv4Convert2Binary.exe.config
+E:\SINHVIEN\LAP TRINH MANG\IPv4Convert2Binary\bin\Debug\IPv4Convert2Binary.exe
+E:\SINHVIEN\LAP TRINH MANG\IPv4Convert2Binary\bin\Debug\IPv4Convert2Binary.pdb
+E:\SINHVIEN\LAP TRINH MANG\IPv4Convert2Binary\obj\Debug\IPv4Convert2Binary.csprojAssemblyReference.cache
+E:\SINHVIEN\LAP TRINH MANG\IPv4Convert2Binary\obj\Debug\IPv4Convert2Binary.Form1.resources
+E:\SINHVIEN\LAP TRINH MANG\IPv4Convert2Binary\obj\Debug\IPv4Convert2Binary.Properties.Resources.resources
+E:\SINHVIEN\LAP TRINH MANG\IPv4Convert2Binary\obj\Debug\IPv4Convert2Binary.csproj.GenerateResource.cache
+E:\SINHVIEN\LAP TRINH MANG\IPv4Convert2Binary\obj\Debug\IPv4Convert2Binary.exe
+E:\SINHVIEN\LAP TRINH MANG\IPv4Convert2Binary\obj\Debug\IPv4Convert2Binary.pdb

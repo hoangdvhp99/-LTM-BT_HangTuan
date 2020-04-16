@@ -1,0 +1,9 @@
+E:\SINHVIEN\LAP TRINH MANG\IPv4_XacDinhNhom\bin\Debug\IPv4_XacDinhNhom.exe.config
+E:\SINHVIEN\LAP TRINH MANG\IPv4_XacDinhNhom\bin\Debug\IPv4_XacDinhNhom.exe
+E:\SINHVIEN\LAP TRINH MANG\IPv4_XacDinhNhom\bin\Debug\IPv4_XacDinhNhom.pdb
+E:\SINHVIEN\LAP TRINH MANG\IPv4_XacDinhNhom\obj\Debug\IPv4_XacDinhNhom.csprojAssemblyReference.cache
+E:\SINHVIEN\LAP TRINH MANG\IPv4_XacDinhNhom\obj\Debug\IPv4_XacDinhNhom.Form1.resources
+E:\SINHVIEN\LAP TRINH MANG\IPv4_XacDinhNhom\obj\Debug\IPv4_XacDinhNhom.Properties.Resources.resources
+E:\SINHVIEN\LAP TRINH MANG\IPv4_XacDinhNhom\obj\Debug\IPv4_XacDinhNhom.csproj.GenerateResource.cache
+E:\SINHVIEN\LAP TRINH MANG\IPv4_XacDinhNhom\obj\Debug\IPv4_XacDinhNhom.exe
+E:\SINHVIEN\LAP TRINH MANG\IPv4_XacDinhNhom\obj\Debug\IPv4_XacDinhNhom.pdb
